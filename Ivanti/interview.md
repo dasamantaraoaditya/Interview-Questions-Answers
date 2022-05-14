@@ -10,6 +10,7 @@
 
 ## Round 2
 - Merg two sorted arrays https://leetcode.com/problems/merge-sorted-array/ 
+```
   class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int nums1counter = m-1, nums2counter = n-1, resultCounter = m+n-1;
@@ -31,7 +32,7 @@
         }
     }
   }
-  
+  ```
   
 - Different injection mechanisms in spring
   https://www.programmergirl.com/spring-dependency-injection/
