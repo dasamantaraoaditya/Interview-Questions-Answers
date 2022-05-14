@@ -9,7 +9,7 @@ You need to install some set up (like Jenkins, docker) in your local system for 
 
 
 ### Weather Prediction
-
+```
 Problem Statement (Full Stack – UI, Service + CI/CD)
 
 Develop, test and deploy a micro service to show the output of a city&#39;s (to be taken as an input parameter) next 3 days high and low temperatures. If rain is predicted in next 3 days or temperature goes above 40 degree Celsius then mention &#39;Carry umbrella&#39; or &#39;Use sunscreen lotion&#39; respectively in the output, for that day; Demonstrate adding additional conditions, with the least code changes &amp; deployment:
@@ -67,3 +67,4 @@ and publish service locally)
 Instructions reg. IDE
 • Only 8080 port is available on preview panel. Configure your application on 8080 port
 only.
+```
